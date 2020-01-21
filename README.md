@@ -12,6 +12,19 @@ The technology stack used for this example, including libraries and tools are:
 - Visual Studio Code
 - iOs
 - Android
+- React Navigation
+- Axios
+
+## Components Used
+
+The React Native components used for this example are:
+
+- TouchableOpacity
+- ActivityIndicator
+- Image
+- FlatList
+- View
+- Text
 
 ## Development server
 
