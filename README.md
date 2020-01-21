@@ -10,6 +10,8 @@ The technology stack used for this example, including libraries and tools are:
 
 - React Native
 - Visual Studio Code
+- iOs
+- Android
 
 ## Development server
 
